@@ -1,0 +1,14 @@
+# ngrok
+.ngrok2/
+*.log
+*.zip
+*.tgz
+
+# Temporary
+tmp/
+install/
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db

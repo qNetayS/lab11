@@ -1,13 +1,24 @@
+# Артефакты сборки
+libevent-*/
+ncurses-*/
+tmux-*/
+*.tar.gz
+*.tar.bz2
+*.zip
+
 # ngrok
 .ngrok2/
+ngrok
 *.log
-*.zip
-*.tgz
 
-# Temporary
+# Vim
+*.swp
+*.swo
+*~
+
+# Временные папки
 tmp/
 install/
-*.tar.gz
 
 # OS
 .DS_Store

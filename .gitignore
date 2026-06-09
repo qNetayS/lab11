@@ -1,25 +1,9 @@
-# Артефакты сборки
 libevent-*/
 ncurses-*/
-tmux-*/
 *.tar.gz
-*.tar.bz2
 *.zip
-
-# ngrok
 .ngrok2/
 ngrok
-*.log
-
-# Vim
 *.swp
-*.swo
-*~
-
-# Временные папки
 tmp/
 install/
-
-# OS
-.DS_Store
-Thumbs.db
